@@ -1,3 +1,3 @@
 # Basic Splitwise LLD Problem
 
-# Contributions are welcome 
+## Contributions are welcome 
